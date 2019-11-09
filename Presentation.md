@@ -7,3 +7,4 @@ User feedback : This is simple and helps people with a blind disability avoiding
 Code : The code that is used to design this panel is html.
 
 As mentioned earlier, this design supports people with blind disability by having a Braille content enabled on the screen. Initially, the screen looks like this without any Braille content.
+Kishore
